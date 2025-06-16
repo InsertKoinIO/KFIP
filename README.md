@@ -10,6 +10,10 @@ for an initial review of the design before implementation.
 > spirit of the [Request of Comments (RFC)](https://en.wikipedia.org/wiki/Request_for_Comments) process developed by the 
 > [Internet Engineering Task Force (IETF)](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force).
 
+## Feature Status
+
+All selected features are currently listed in Github [Koin Project Board](https://github.com/orgs/InsertKoinIO/projects/2)
+
 ## Proposals
 
 * New proposals are submitted as [pull requests](https://github.com/InsertKoinIO/KFIP/pulls).
