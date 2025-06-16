@@ -2,80 +2,45 @@
 |-------------|--------------------------------------------------|
 | Feature     | Feature Name			                         |
 | Submitted   | 2025-01-01                                       |
-| Accepted    | No                                               |
+| Status        | Draft / In Review / Accepted / Rejected               |
 | Issue       | https://github.com/InsertKoinIO/koin/issues/0000 |
+| Project Card  | https://github.com/orgs/InsertKoinIO/projects/1/views/1?itemId=0000  |
 | Project	  | [Koin] or [Koin Annotations]			         |
-| Module	  | impacted modules (koin-core, ...)		         |
-| Preceded by |                                                  |
-| Followed by |                                                  |
+| Component     | core / test / android / compose / annotations                |
+| Version	  | 4.2.0			         |
 
-### Contents
+---
 
-1. [Summary](#summary)
-2. [Motivation](#motivation)
-3. [Current Solutions](#current-solutions)
-4. [Design Overview](#design-overview)
-5. [Design Details](#design-details)
-6. [Drawbacks](#drawbacks)
-7. [Advantages](#advantages)
-8. [Open Questions](#open-questions)
-9. [Future Directions](#future-directions)
+## Summary
 
-<hr />
+What is this proposal about? What problem does it solve?
 
-# Summary
-[summary]: #summary
+---
 
-Provide an abstract of the change. Describe the intention and expected impact briefly. Keep it to one paragraph for clarity.
+## Motivation
 
-# Motivation
-[motivation]: #motivation
+Why is this change important for Koin or Koin Annotations?
 
-Explain why this change is needed. Include any relevant research, conversations, or links that support the motivation.
+---
 
-# Current Solutions
-[current-solutions]: #current-solutions
+## Proposed Solution
 
-Describe how the problem is addressed with current solutions. Identify shortcomings or limitations of these solutions.
+Explain the approach simply. Add a short example if helpful.
 
-# Design Overview
-[design-overview]: #design-overview
+---
 
-Summarize the pain points and provide an outline of how the proposal will address them.
+## Drawbacks & Alternatives
 
-# Design Details
-[design-details]: #design-details
+What are the trade-offs? Were other options considered?
 
-Provide a detailed description of the proposal. Include examples and explain its impact on users. Address:
-- Usage examples to clarify the feature.
-- How this will benefit users.
-- Potential error messages or warnings if relevant.
-- For technical proposals, focus on what contributors need to know about implementation and impacts.
+---
 
-# Technical Details
-[technical-details]: #technical-details
+## Implementation Notes (optional)
 
-Dive into the technical specifics:
-- Clarify interactions with existing features.
-- Outline high-level implementation data.
-- Discuss edge cases with examples if applicable.
+Anything relevant for contributors or maintainers to know?
 
-# Drawbacks
-[drawbacks]: #drawbacks
+---
 
-Discuss potential reasons against implementing this proposal. Note considerations that could demand a new proposal or adjustment.
+## Future Considerations (optional)
 
-# Advantages
-[advantages]: #advantages
-
-Detail why this design is optimal. Consider the impact of not proceeding with this proposal.
-
-# Open Questions
-[open-questions]: #open-questions
-
-Outline any aspects that need resolution during the RFC review or implementation. Mention related topics that are out of scope but could be addressed later.
-
-# Future Directions
-[future-directions]: #future-directions
-
-Explore potential future directions for your proposal. Consider how it might evolve and interact within the project. Use this section for ideas outside the current RFC's scope but relevant context.
+How might this evolve or inspire related features?
