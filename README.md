@@ -40,4 +40,4 @@ To submit a proposal:
 4. Create a pull request with the new proposal.
 5. Wait for a review and the acceptance of your proposal.
 
-After a proposal is accepted, it will be ready to be implemented into Koin.
+After a proposal is accepted, it will be ready to be implemented into Koin. Proposal will be then pass to `feature` folder.
